@@ -1,0 +1,5 @@
+nspin 		1
+mgrid		200000
+rintime 	5.0e-12
+dmpara	 	0.002
+
